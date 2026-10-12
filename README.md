@@ -1,2 +1,11 @@
-# programacao-web-1
-Repositório destinado a disciplina: Programa Web 1 | Curso Técnico de Informática para Internet
+# Minha primeira página Web
+Nome: Nícolas Alves Ribeiro
+
+## Sobre a atividade
+Está e a minha primeira página desenvolvida na disciplina de Programa Web.
+
+##Tecnologias utilizadas
+
+- HTML
+- CSS
+- GitHub
